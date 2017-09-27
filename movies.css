@@ -12,19 +12,16 @@
     front-size: 40px;
     height:200px;
     width:600px;
-    color: blue;
+    color: blue; 
   }
   </style>
   </head>
   <body>
-<style type="text/css">
-body{
+  body{
+  color: Yellow;
+  background-color: #ff0000;
+  }
 
-}
-p{
-color:purple;
-background-color:#ff0000;
-}
     <div id = "container">
       
       </div>
