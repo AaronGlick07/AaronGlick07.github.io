@@ -12,12 +12,13 @@
     front-size: 40px;
     height:200px;
     width:600px;
+    color: blue;
   }
   </style>
   </head>
   <body>
     <div id = "container">
-      Hello
+      
       </div>
   </body>
   </html>
