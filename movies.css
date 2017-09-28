@@ -1,12 +1,12 @@
 
   body {
     color: blue;
-    background-color #ffcc00;
+    background-color: #ffcc00;
 }
   p{
     background-color: #003366;
     color: white;
-    padding:24px;
+    padding: 24px;
     font: large arial;
   }
 
