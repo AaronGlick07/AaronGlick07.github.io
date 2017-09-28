@@ -4,13 +4,13 @@
 
   <body>
   <style type="text/css">
-   body{
-        color:  purple;
-        background-color:  #ff0000;
-   } 
+  body {
+    background-color: lightblue;
+}
 
-    <div id = "container">
-      
-      </div>
+h1 {
+    color: navy;
+    margin-left: 20px;
+}
   </body>
   </html>
