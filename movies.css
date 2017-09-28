@@ -1,8 +1,15 @@
 
   <style type="text/css">
   body {
-    style="background-color:rgb(255, 99, 71)"
+    color: black
+    background-color #ffcc00
 }
+  p{
+    background-color: #003366;
+    color: white;
+    padding:24px;
+    font: large arial;
+  }
 
 h1 {
     color: blue;
