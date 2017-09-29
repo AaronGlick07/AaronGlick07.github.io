@@ -18,4 +18,10 @@ h2{
   color: green;
   margin-left: 15px;
 }
-
+.footer {
+    background-color: lightgrey;
+    width: 300px;
+    border: 25px solid green;
+    padding: 25px;
+    margin: 25px;
+}
