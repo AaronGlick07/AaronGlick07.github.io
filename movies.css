@@ -2,21 +2,25 @@
   body {
     color: blue;
     background-color: #ffcc00;
+    <!-- The body color -- >
 }
   p{
     background-color: #003366;
     color: white;
     padding: 24px;
     font: large arial;
+    <!-- The paragraph fonts and everything-->
   }
 
 h1 {
     color: blue;
     margin-left: 20px;
+  <!-- Heading font and color -- >
 }
 h2{
   color: green;
   margin-left: 15px;
+  <!-- heading 2 color and font-->
 }
 .footer {
     background-color: lightgrey;
@@ -24,4 +28,5 @@ h2{
     border: 25px solid green;
     padding: 25px;
     margin: 25px;
+  <!-- the footer desgin -->
 }
